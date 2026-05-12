@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Token",
+  "symbol": "Q",
+  "decimals": 18,
+  "description": "Quantum Token project",
+  "logoURI": "https://raw.githubusercontent.com/bulatovaider-dot/quantum-token/main/token-logo.png",
+  "website": "https://github.com/bulatovaider-dot/quantum-token"
+}
