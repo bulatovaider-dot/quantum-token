@@ -1,5 +1,9 @@
 # Quantum Token
 
+<p align="center">
+  <img src="assets/token-logo.png" width="200"/>
+</p>
+
 Quantum Token is a digital asset project providing official branding and metadata for the token ecosystem.
 
 ---
