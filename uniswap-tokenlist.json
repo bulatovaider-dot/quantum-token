@@ -1,0 +1,14 @@
+{
+  "name": "Quantum Token List",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x3f395B4BaA18D6F77F7eED7C81cCcb2058B229ca",
+      "name": "Quantum Token",
+      "symbol": "QT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bulatovaider-dot/quantum-token/main/token-logo.png"
+    }
+  ]
+}
