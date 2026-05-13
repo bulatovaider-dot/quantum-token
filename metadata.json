@@ -1,8 +1,17 @@
 {
   "name": "Quantum Token",
-  "symbol": "Q",
-  "decimals": 18,
-  "description": "Quantum Token project",
-  "logoURI": "https://raw.githubusercontent.com/bulatovaider-dot/quantum-token/main/token-logo.png",
-  "website": "https://github.com/bulatovaider-dot/quantum-token"
+  "symbol": "QT",
+  "description": "Quantum Token is a digital asset project providing official branding and metadata for the token ecosystem.",
+  "image": "assets/token-logo.png",
+  "external_url": "https://github.com/bulatovaider-dot/quantum-token",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Custom / Demo"
+    }
+  ]
 }
